@@ -1,3 +1,4 @@
 test:
    script:
       - echo "Hello world!"
+      - echo "this totally worked!"
